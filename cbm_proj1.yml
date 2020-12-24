@@ -1,0 +1,14 @@
+name: cbm_project1_env
+channels:
+  - bioconda
+  - defaults
+  - conda-forge
+  - r
+dependencies:
+  - python=3.7
+  - scipy
+  - numpy
+  - matplotlib
+  - numba
+  - pandas
+  

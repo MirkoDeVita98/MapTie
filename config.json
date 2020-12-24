@@ -1,0 +1,14 @@
+{
+    "input":{
+        "reference_abs_path": "/Users/sat/Desktop/ETH_PROJECTS/comp_bio/team02/data/genome.chr22.fa",
+        "reference_name": "chr22",
+        "read1": "/Users/sat/Desktop/ETH_PROJECTS/comp_bio/team02/data/output_30xCov1.fq",
+        "read2": "/Users/sat/Desktop/ETH_PROJECTS/comp_bio/team02/data/output_30xCov2.fq"    
+    },
+    "output":{
+        "cache_dir": "cache",
+        "output_dir": "results"
+    },   "execution":{
+        "n_jobs":8
+    }
+}
